@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "version_schema": "1.3",
+    "creado": "2026-04-16T00:00:00",
+    "ultima_actualizacion": "2026-04-16T00:00:00",
+    "historial_skills_ejecutadas": [],
+    "notas_migracion": "v1.3: propuesta/ + quality_reports/ fusionadas en informes/ (9 subcarpetas numeradas por momento del proceso). Nuevas carpetas: documentos_base/ (insumos semilla en .md) y master_supporting_docs/fuentes_md/ (texto completo de fuentes por citekey)."
+  },
+  "proyecto": {
+    "nombre": "",
+    "institucion": "",
+    "paradigma": "",
+    "diseno_cualitativo": "",
+    "tipo_mixto": "",
+    "tipo_articulo": "",
+    "idioma_corpus": "es"
+  },
+  "documentos_base": {
+    "ruta_carpeta": "documentos_base/",
+    "documentos": []
+  },
+  "convocatoria": {
+    "aplica": null,
+    "nombre": "",
+    "entidad": "",
+    "ruta_perfil": "informes/01_convocatoria/convocatoria_profile.md",
+    "fecha_cierre": "",
+    "estado": "pendiente"
+  },
+  "bibliografia": {
+    "ruta_bib": "master_supporting_docs/Bibliography_base.bib",
+    "ruta_fuentes_md": "master_supporting_docs/fuentes_md/",
+    "vinculado_zotero": false,
+    "total_entradas": 0,
+    "ultima_sincronizacion": ""
+  },
+  "etica": {
+    "irb_aprobacion": "",
+    "consentimientos_registrados": 0,
+    "protocolo_anonimizacion": "",
+    "ruta_declaracion_etica": "",
+    "checklist_aplicado": false
+  },
+  "descubrimiento": {
+    "pregunta_investigacion": "",
+    "ruta_spec": "informes/02_entrevista/",
+    "ruta_lit_review": "informes/03_estado_del_arte/",
+    "ruta_data_exploration": "informes/03_estado_del_arte/",
+    "ruta_sources_exploration": "informes/03_estado_del_arte/",
+    "referencias_nuevas_candidatas": [],
+    "estado": "pendiente",
+    "timestamp_completado": ""
+  },
+  "propuesta": {
+    "ruta_documento": "informes/04_propuesta/propuesta.md",
+    "ruta_documento_final": "",
+    "apartados_completados": [],
+    "score_evaluacion": null,
+    "sanitizacion_externa_aplicada": false,
+    "estado": "pendiente",
+    "timestamp_completado": ""
+  },
+  "estrategia": {
+    "ruta_memo": "",
+    "posicion_epistemologica": "",
+    "criterios_calidad": [],
+    "tipo_saturacion": "",
+    "estrategia_muestreo": "",
+    "decision_records": [],
+    "score_critic": null,
+    "estado": "pendiente",
+    "timestamp_completado": ""
+  },
+  "analisis": {
+    "cuantitativo": {
+      "ruta_dataset": "",
+      "ruta_modelos": "",
+      "ruta_results_summary": "",
+      "timestamp": ""
+    },
+    "cualitativo": {
+      "ruta_corpus_raw": "data/raw/",
+      "ruta_corpus_limpio": "data/cleaned/",
+      "ruta_citas_json": "",
+      "ruta_corpus_codificado": "",
+      "ruta_memos": "",
+      "ciclo_codificacion": "",
+      "ruta_baseline_reflexivity": "",
+      "citas_requieren_revision_manual": null,
+      "kappa_intercoder": null,
+      "timestamp": ""
+    },
+    "integracion_mixta": {
+      "ruta_joint_display": "",
+      "timestamp": ""
+    },
+    "errores_log": [],
+    "estado": "pendiente"
+  },
+  "redaccion": {
+    "secciones_completadas": [],
+    "ruta_outline_aprobado": "",
+    "ruta_paper_main": "paper/main.md",
+    "perfil_revista_activo": "",
+    "cobertura_codigos": {},
+    "estado": "pendiente",
+    "timestamp_completado": ""
+  },
+  "ciclo_editorial": {
+    "journal_objetivo": "",
+    "estado_submission": "no_iniciado",
+    "historial_revisiones": [],
+    "carta_respuesta_arbitros": ""
+  }
+}
